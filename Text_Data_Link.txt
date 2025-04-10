@@ -1,0 +1,6 @@
+Text Data1 
+	https://www.thedailystar.net/sports/football/news/haaland-signs-new-man-city-deal-until-2034-3801471
+	Haaland signs new Man City deal until 2034
+Text Data2
+	https://www.bbc.com/news/articles/c62737zqn68o
+	Tanzania denies suspected Marburg outbreak after WHO alert
